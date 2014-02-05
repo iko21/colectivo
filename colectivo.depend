@@ -1,4 +1,8 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1391623779 source:/home/mac21/Desktop/programaing/colectivo/main.cpp
+=======
+1391623569 source:/home/turupawn/Projects/Codeblocks/colectivo/main.cpp
+>>>>>>> 9fb616ba450a41e596be6ee0ad17082ac0c729f4
 	<iostream>
 
